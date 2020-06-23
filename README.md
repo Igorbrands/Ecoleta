@@ -46,7 +46,7 @@ From your command line:
 $ git clone https://github.com/Igorbrands/Ecoleta
 
 # Go into the repository
-$ cd ecoleta/backend
+$ cd ecoleta/server
 
 # Install dependencies
 $ yarn install
